@@ -21,3 +21,5 @@ Aqui estão alguns recursos úteis para nossa organização:
 * Nossa comida favorita para o café da manhã é pão de queijo.
 
 Esperamos que você se junte a nós para construir projetos incríveis!
+
+![](https://komarev.com/ghpvc/?username=freecorps)
